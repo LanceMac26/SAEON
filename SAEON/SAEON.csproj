@@ -132,7 +132,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Framework.html" />
-    <Content Include="index.html" />
     <Content Include="Scripts\img\lightbox\default-skin.png" />
     <Content Include="Scripts\img\lightbox\default-skin.svg" />
     <Content Include="Scripts\img\lightbox\preloader.gif" />
